@@ -144,6 +144,10 @@ footer {
   justify-content: space-between;
   max-width: 1200px;
   margin: 0 auto;
+  padding-bottom: 2px;
+}
+.about{
+  font-size: 10px ;
 }
 
 .footer-left {
